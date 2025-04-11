@@ -65,3 +65,7 @@ Note: use ctrl+shift+v to preview md files in VS Code
 15. `git branch <branch_name>`
 
     Create a new branch.
+
+16. `git checkout "branch name"`
+
+    Switch to a different branch (edits/commits will be on this now)
