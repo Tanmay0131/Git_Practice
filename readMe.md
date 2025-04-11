@@ -53,3 +53,7 @@ Sends local commits to the remote repository.
 12. `git pull`
 
 Fetches **and merges** changes from the remote repository to your local one.
+
+13. `git fetch`
+
+Fetches **but does not merge** automatically.
