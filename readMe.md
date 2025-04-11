@@ -32,7 +32,7 @@ Note: use ctrl+shift+v to preview md files in VS Code
 
 7. `git status`
 
-   Shows the current state of the working directory and staging area.
+   Shows the current state of the working directory and staging area
 
 8. `git add <file>`
 
@@ -40,4 +40,12 @@ Note: use ctrl+shift+v to preview md files in VS Code
 
 9. `git commit -m "message"`
 
-   Saves the staged changes with a commit message.
+   Saves the stages changes with a commit message.
+
+10. **Add a remote location for a repo**
+
+`git remote add origin <link to repo>`
+
+11. `git push`
+
+Sends local commits to the remote repository.
